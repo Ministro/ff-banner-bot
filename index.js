@@ -12,7 +12,7 @@ const hVariants = ["h", "H"];
 const lettersUpper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
 const OB_VERSION = "OB50"; // Mude se quiser
-const BASE_NAME = process.env.BASE_NAME || "TWPain"; // Pode mudar no env
+const BASE_NAME = process.env.BASE_NAME || "TWMadaraTitleUs"; // Pode mudar no env
 
 async function testImage(url) {
   try {
